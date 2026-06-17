@@ -79,7 +79,7 @@ This repository contains two Artificial Neural Network (ANN) projects implemente
 ## How to Run
 
 ```bash
-git clone https://github.com/Fahad9009/ANNs.git
+git clone https://github.com/ciphermosaic/ANNs.git
 cd ANNs
 pip install -r requirements.txt
 ```
